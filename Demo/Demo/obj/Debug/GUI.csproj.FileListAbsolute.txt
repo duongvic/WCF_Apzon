@@ -1,0 +1,17 @@
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\obj\Debug\Demo.FormDEMO.resources
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\obj\Debug\Demo.exe.licenses
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\BusinessObject.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\BusinessObject.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\DataAcess.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\BussinessEntity.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\DataAcess.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\Demo\bin\Debug\BussinessEntity.dll
+C:\Users\duong\Documents\Visual Studio 2012\Projects\Demo\Demo\obj\Debug\Demo.FormOCRD.resources

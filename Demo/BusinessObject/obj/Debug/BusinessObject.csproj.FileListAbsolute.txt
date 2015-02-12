@@ -1,0 +1,4 @@
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BusinessObject\obj\Debug\BusinessObject.pdb

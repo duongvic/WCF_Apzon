@@ -1,0 +1,5 @@
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\DataAcess\bin\Debug\DataAcess.dll.config
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\DataAcess\obj\Debug\DataAcess.pdb

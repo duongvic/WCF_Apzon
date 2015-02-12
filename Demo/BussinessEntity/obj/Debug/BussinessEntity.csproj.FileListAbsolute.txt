@@ -1,0 +1,9 @@
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\bin\Debug\BussinessEntity.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\bin\Debug\BussinessEntity.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\bin\Debug\BusinessObject.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\bin\Debug\DataAcess.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\bin\Debug\BusinessObject.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\bin\Debug\DataAcess.pdb
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\obj\Debug\BussinessEntity.csprojResolveAssemblyReference.cache
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\obj\Debug\BussinessEntity.dll
+C:\Users\duong\documents\visual studio 2012\Projects\Demo\BussinessEntity\obj\Debug\BussinessEntity.pdb
